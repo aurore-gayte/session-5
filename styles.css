@@ -5,12 +5,13 @@ body {
 #fixed-block {
 	position: fixed;
 	top: 0px;
-	left: 0px;
+	left: 0px
+	padding: 20px;
 }
 
 #footnotes {
 	position: absolute;
-	bottom: 0px;
+	top: 100%;
 }
 
 #with-offset {
